@@ -320,6 +320,7 @@ form input {
 .footer-logo {
     color: var(--Very-Pale-Blue);
     margin-bottom: 1rem;
+    filter: invert(10%) brightness(1000%);
 }
 
 .footer-info-content {
