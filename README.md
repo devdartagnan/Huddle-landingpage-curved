@@ -18,8 +18,6 @@
 - Flexbox
 - CSS Grid
 - Mobile-first fluxo de trabalho
-- Api: consumo de api
-- [Rest Api Country]([https://www.example.com](https://restcountries.com/)) 
 
 ---
 
