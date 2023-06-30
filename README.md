@@ -2,7 +2,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Huddle landing Page**
+| :sparkles: Nome        | **Huddle-landingpage-curved**
 | :label: Tecnologias | HTML, Js, Css
 | :rocket: URL         | (https://huddle-landingpage-curved.vercel.app/)
 | 🔥 Desafio         | (https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2)
@@ -18,6 +18,7 @@
 - Flexbox
 - CSS Grid
 - Mobile-first fluxo de trabalho
+- Javascript
 
 ---
 
@@ -28,6 +29,7 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Javascript
 
 
 ## Author
